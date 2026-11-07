@@ -1,0 +1,25 @@
+#entornos virtuales
+.venv/
+
+#Archivos temporales de python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+#Datos generados
+data/processed/
+#configuracion local y temp
+.env
+.pytest_cache/
+
+# Generated data
+data/processed/
+
+# Local datasets (not published in this version)
+data/raw/
+
+# Editor files
+.vscode/
+.cursor/
+
+# System files
+.DS_Store
